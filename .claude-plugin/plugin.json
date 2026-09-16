@@ -1,0 +1,12 @@
+{
+  "name": "aidlc",
+  "displayName": "AI-Native SDLC",
+  "version": "0.1.0",
+  "description": "Walks a change through the AI-native SDLC loop: intent, spec, plan, verify, review, maintain. Each stage commits an artifact that gates the next.",
+  "author": {
+    "name": "Kevin Durbin",
+    "email": "kevin.durbin@pushpay.com"
+  },
+  "license": "MIT",
+  "keywords": ["sdlc", "workflow", "planning", "review", "intent", "spec"]
+}

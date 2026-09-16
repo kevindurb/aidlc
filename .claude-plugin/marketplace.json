@@ -1,0 +1,15 @@
+{
+  "name": "aidlc",
+  "description": "Skills that run a change through the AI-native SDLC loop: intent, spec, plan, verify, review, maintain.",
+  "owner": {
+    "name": "Kevin Durbin",
+    "email": "kevin.durbin@pushpay.com"
+  },
+  "plugins": [
+    {
+      "name": "aidlc",
+      "source": "./",
+      "description": "AI-native SDLC loop: intent -> spec -> plan -> verify -> review -> maintain"
+    }
+  ]
+}
