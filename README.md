@@ -35,8 +35,8 @@ Or with the [`skills`](https://github.com/vercel-labs/skills) CLI, which install
 of its supported agents:
 
 ```bash
-npx skills add kevindurbin/aidlc --list     # see what is available
-npx skills add kevindurbin/aidlc            # pick interactively
+npx skills add kevindurb/aidlc --list     # see what is available
+npx skills add kevindurb/aidlc            # pick interactively
 ```
 
 The plugin path also installs the `verifier` subagent. The CLI path installs skills only;
